@@ -1,0 +1,27 @@
+{
+  "name": "poker-vault/phpcs-standard",
+  "type": "library",
+  "description": "Phpcs styleguide",
+  "keywords": [
+    "phpcs"
+  ],
+  "homepage": "https://github.com/poker-vault/phpcs-standard",
+  "license": "MIT",
+  "require": {
+    "squizlabs/php_codesniffer": "^3.3",
+    "slevomat/coding-standard": "^4.8"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+  },
+  "autoload-dev": {
+  },
+  "scripts": {
+  },
+  "extra": {
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
